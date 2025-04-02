@@ -62,6 +62,63 @@ Each topic was reinforced through hands-on practice, using sample datasets and e
 ## Conclusion
 Day 1 provided a solid introduction to Excel's essential functionalities. The next steps involve exploring intermediate concepts like conditional formatting, functions, charts, and data analysis tools.
 
+# Excel Learning - Day 2 to Day 5
+
+## **Day 2 - Logical & Conditional Functions**
+1. **IF, Nested IF, and IFS**
+   - Understanding the IF function
+   - Using Nested IF statements for multiple conditions
+   - Implementing the IFS function for efficient decision-making
+
+2. **Logical Functions**
+   - Using AND, OR, and NOT functions
+   - Combining logical functions with IF statements
+
+3. **Conditional Aggregation**
+   - COUNTIFS, SUMIFS, and AVERAGEIFS
+   - Applying criteria-based calculations
+   - Freezing panes to keep track of large datasets
+
+## **Day 3 - Working with Date Functions**
+1. **Basic Date Functions**
+   - Understanding Excel date formats
+   - TODAY, NOW, DAY, MONTH, YEAR functions
+   - DATEDIF and simple date calculations
+
+2. **Advanced Date Functions**
+   - Using EOMONTH, WORKDAY, NETWORKDAYS for business date calculations
+   - Adding and subtracting dates dynamically
+
+## **Day 4 - Aggregation & Ranking**
+1. **Basic Aggregate Functions**
+   - SUM, AVERAGE, MIN, MAX
+   - COUNT, COUNTA, COUNTBLANK
+
+2. **Ranking & Rounding**
+   - Using the RANK function to order data
+   - ROUND, ROUNDUP, ROUNDDOWN functions for precise calculations
+
+3. **Minif & Maxif with Conditions**
+   - Using MINIFS and MAXIFS for conditional minimum and maximum values
+   - Practical applications in business reports
+
+## **Day 5 - Advanced Excel Tasks & Final Practice**
+1. **Complex Excel Tasks**
+   - Combining multiple functions in real-world scenarios
+   - Logical tasks using IF, AND, OR with aggregation functions
+
+2. **Project & Practical Applications**
+   - Hands-on tasks to apply learned concepts
+   - Using Excel for financial modeling, reporting, and data visualization
+
+### **Next Steps**
+- Continue exploring PivotTables, Charts, and Power Query
+- Learn about Macros & VBA for automation
+- Deep dive into data analysis techniques with Excel
+
+---
+This document provides a structured learning path from basic to advanced Excel functions, ensuring practical understanding and hands-on application of key concepts.
+
 
 
 
