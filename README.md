@@ -112,6 +112,21 @@ Day 1 provided a solid introduction to Excel's essential functionalities. The ne
    - Using Excel for financial modeling, reporting, and data visualization
 
 ### **Next Steps**
+
+## **Day 6 - Text Functions & String Manipulation**
+1. **Basic Text Functions**
+   - LOWER, UPPER, PROPER for text formatting
+   - LEN to calculate text length
+
+2. **Text Manipulation**
+   - LEFT, RIGHT, MID for substring extraction
+   - CONCATENATE & TEXTJOIN for merging strings
+
+3. **Advanced Text Functions**
+   - FIND, SEARCH for locating substrings
+   - SUBSTITUTE, REPLACE for modifying text
+   - TRIM & CLEAN to remove unwanted spaces
+   - 
 - Continue exploring PivotTables, Charts, and Power Query
 - Learn about Macros & VBA for automation
 - Deep dive into data analysis techniques with Excel
