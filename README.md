@@ -126,6 +126,34 @@ Day 1 provided a solid introduction to Excel's essential functionalities. The ne
    - FIND, SEARCH for locating substrings
    - SUBSTITUTE, REPLACE for modifying text
    - TRIM & CLEAN to remove unwanted spaces
+  
+   - # Day 7 ✅
+
+## 📚 What I Learned
+
+Today, I explored two powerful features in Excel:
+
+### 🎨 Conditional Formatting
+- Learned how to highlight cells based on specific rules.
+- Used color scales, icon sets, and data bars to visualize trends.
+- Applied custom formulas to format rows dynamically.
+- Example use-cases:
+  - Highlighting high/low values.
+  - Visual cues for deadlines or targets.
+  - Detecting duplicates instantly.
+
+### ✅ Data Validation
+- Set rules to control what users can enter into a cell.
+- Created dropdown lists for cleaner data entry.
+- Applied number, date, and custom validation rules.
+- Displayed input messages and error alerts for guidance.
+
+## 💡 Why It Matters
+These features improve data **accuracy**, **readability**, and **efficiency** — making large datasets easier to manage and interpret.
+
+## 🔧 Tools Used
+- Microsoft Excel (Desktop)
+
    - 
 - Continue exploring PivotTables, Charts, and Power Query
 - Learn about Macros & VBA for automation
