@@ -148,6 +148,28 @@ Today, I explored two powerful features in Excel:
 - Applied number, date, and custom validation rules.
 - Displayed input messages and error alerts for guidance.
 
+- 📄 README - Day 8
+📅 Date: (7/04/25)
+✅ Topics Covered:
+- Sort – Learned how to sort data alphabetically, numerically, and by custom order to improve data visibility.
+
+- Column Sort – Practiced sorting based on specific columns while keeping data integrity intact.
+
+- Filter – Applied filters to display only relevant data, making large datasets easier to analyze.
+
+- Group & Ungroup – Explored how to group rows/columns for better structure and ungroup them when needed.
+
+- Protect Cell or Range – Secured specific cells or ranges to prevent unwanted editing by others.
+
+- Protect Sheet – Applied protection to the entire worksheet while allowing some editable areas.
+
+💡 Key Learnings:
+Efficient data organization saves time and reduces errors.
+
+Protection features are essential in collaborative environments to maintain data accuracy and control.
+
+
+
 ## 💡 Why It Matters
 These features improve data **accuracy**, **readability**, and **efficiency** — making large datasets easier to manage and interpret.
 
