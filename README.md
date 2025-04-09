@@ -180,6 +180,65 @@ These features improve data **accuracy**, **readability**, and **efficiency** �
 - Continue exploring PivotTables, Charts, and Power Query
 - Learn about Macros & VBA for automation
 - Deep dive into data analysis techniques with Excel
+- 
+📄 README - Day 9 & 10
+
+🔍 Topics Covered: Basic to Advanced Lookups in Excel
+🔹 1. VLOOKUP (Vertical Lookup):
+Purpose: Searches for a value in the first column of a range and returns a value in the same row from another column.
+
+Syntax:
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+Use Case: Finding a price of a product by product name.
+
+Limitation: Can only look right of the lookup column.
+
+🔹 2. HLOOKUP (Horizontal Lookup):
+Purpose: Searches for a value in the first row and returns a value in the same column from a specified row.
+
+Syntax:
+=HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup])
+
+Use Case: Fetching yearly data where headers are in rows.
+
+Limitation: Can only look down from the first row.
+
+🔹 3. INDEX + MATCH (Advanced Lookup):
+Purpose: A powerful combo to perform both vertical and horizontal lookups without direction limitations.
+
+Syntax:
+=INDEX(return_range, MATCH(lookup_value, lookup_range, 0))
+
+Use Case: Getting a salary of an employee using employee name.
+
+Advantage: More flexible than VLOOKUP and works with data to the left or above.
+
+🔹 4. XLOOKUP (Modern Excel - Best Option):
+Purpose: The most advanced and flexible lookup function replacing VLOOKUP and HLOOKUP.
+
+Syntax:
+=XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode])
+
+Use Case: Any lookup—right, left, up, down—with more control.
+
+Advantage: Handles errors, searches in both directions, and returns arrays.
+
+🔹 5. LOOKUP (Legacy Function):
+Purpose: Searches for a value in a vector or array and returns a value from the same position in another vector.
+
+-Syntax:
+=LOOKUP(lookup_value, lookup_vector, result_vector)
+
+Use Case: Basic lookups when data is sorted.
+
+💡 Summary:
+Function	              Direction       	Flexible	   Error Handling	  Backward Lookup
+VLOOKUP	              Right Only	             ❌   	❌	         ❌
+HLOOKUP              	Down Only	             ❌	   ❌            	❌
+INDEX+MATCH              	Any	                ✅	   ❌	            ✅
+XLOOKUP	                  Any	                ✅	   ✅	            ✅
+LOOKUP	                Sorted Data	           ❌	   ❌            ❌
 
 ---
 This document provides a structured learning path from basic to advanced Excel functions, ensuring practical understanding and hands-on application of key concepts.
