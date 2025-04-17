@@ -332,7 +332,106 @@ On Day 11, I explored how to create interactive and insightful dashboards in Exc
 Excel Dashboards allow for data-driven decision making and are widely used in business environments to track KPIs, performance, and trends in real time.
 
 
+📘 Day 13 - Power Pivot in Excel
+🧠 What I Learned
+Power Pivot is an advanced data modeling tool in Excel that allows users to analyze large volumes of data from multiple sources and create complex calculations using DAX (Data Analysis Expressions) — all within Excel.
 
+🔍 Topics Covered
+Introduction to Power Pivot
+
+What is Power Pivot?
+
+Why use Power Pivot over standard PivotTables?
+
+When to use it: Large datasets, performance issues, or multi-table analysis.
+
+Loading Data into Power Pivot
+
+Importing data directly into the Power Pivot window
+
+Connecting multiple tables through Relationships
+
+Understanding Star Schema and Snowflake Schema models
+
+DAX Functions
+
+Created Calculated Columns (like = [Sales] * [Profit Margin])
+
+Built Measures for reusable metrics (like Total Sales, YTD Sales, Profit %)
+
+Used CALCULATE, FILTER, SUMX, and other advanced DAX functions
+
+Building Powerful Dashboards
+
+Integrated Power Pivot with Pivot Tables, Slicers, and Pivot Charts
+
+Created dynamic KPIs and performed time intelligence calculations
+
+🧰 Skills Developed
+Advanced Data Modeling
+
+DAX (Data Analysis Expressions)
+
+Relationship building between tables
+
+KPI creation and trend analysis
+
+Efficient handling of millions of rows of data in Excel
+
+📘 Day 14 - Power Query in Excel
+🧠 What I Learned
+Power Query is Excel’s Extract, Transform, Load (ETL) tool — built to clean and prepare data without using complex formulas. It saves time by automating repetitive tasks and enabling quick refreshes when data updates.
+
+🔍 Topics Covered
+Power Query Interface
+
+Explored the Power Query Editor
+
+Understood the applied steps pane, which records each transformation step
+
+Data Cleaning Techniques
+
+Removed duplicates and blank rows
+
+Split columns by delimiter (e.g., splitting full names or emails)
+
+Replaced values and filtered unwanted entries
+
+Transformed data types (text to numbers, date formatting, etc.)
+
+Combining Data
+
+Append Queries to stack data from multiple sources
+
+Merge Queries to join data like SQL joins
+
+Unpivoted data for better analysis (ideal for survey or time-series data)
+
+Loading and Refreshing Data
+
+Loaded cleaned data back to Excel tables or directly to the Data Model
+
+Refreshed data with one click when source files changed — super handy for monthly reporting!
+
+Automation & Scripting
+
+Explored M Language, the script behind Power Query
+
+Modified queries manually for custom logic
+
+🧰 Skills Developed
+Mastery in Data Cleaning and Shaping
+
+ETL Pipeline Creation
+
+Data Merging and Unpivoting
+
+Automating Data Prep Tasks
+
+Combining Multiple Data Sources (Excel, Web, CSV, Folders)
+
+💡 Conclusion:
+By mastering Power Pivot and Power Query, I now have a strong foundation to build powerful, automated, and scalable Excel dashboards that can handle complex business reporting with ease.
 ---
 This document provides a structured learning path from basic to advanced Excel functions, ensuring practical understanding and hands-on application of key concepts.
 
