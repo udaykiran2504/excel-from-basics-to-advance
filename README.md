@@ -427,6 +427,28 @@ ETL Pipeline Creation
 Data Merging and Unpivoting
 
 Automating Data Prep Tasks
+📘 Day 17 – Macros & UserForms in VBA
+🛠️ What I Learned:
+Mastered creating UserForms in VBA to capture inputs like Name, Age, and Gender.
+
+Designed a submit button to display entered data using a message box.
+
+Learned how to assign macros to shapes, making Excel sheets more interactive and dynamic.
+
+Understood how to trigger user-defined forms using button clicks or shapes for smoother workflows.
+
+✅ Skills Gained:
+VBA UserForm design and functionality
+
+Event-driven programming using CommandButton_Click
+
+Linking UI elements with backend logic
+
+Improved automation for repetitive tasks in Excel
+
+🏁 Completion:
+This marks the end of my Excel journey from Basic to Advanced, covering everything from formulas and dashboards to Power Query, Power Pivot, and now Macros with VBA!
+
 
 Combining Multiple Data Sources (Excel, Web, CSV, Folders)
 
